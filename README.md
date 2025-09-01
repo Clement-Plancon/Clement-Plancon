@@ -5,8 +5,8 @@
 
 <p align="center">
 French engineer 🇫🇷<br/>
-Software architect & full stack development 👨‍💻<br/>
-Ministry of Economy & finance 🏫<br/>
+Full stack development 👨‍💻<br/>
+Ministry of Interior 🏫<br/>
 Computer engineering architect study 🎓<br/>
 </p>
 
