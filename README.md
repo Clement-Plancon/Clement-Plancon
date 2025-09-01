@@ -7,7 +7,6 @@
 French engineer 🇫🇷<br/>
 Full stack development 👨‍💻<br/>
 Ministry of Interior 🏫<br/>
-Computer engineering architect study 🎓<br/>
 </p>
 
 <h3 align="center">
