@@ -97,10 +97,9 @@
 
 ---
 
-## 🐍 Contribution Snake (auto-generated in your repo)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Clement-Plancon/Clement-Plancon/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Clement-Plancon&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Plancon&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
@@ -117,27 +116,6 @@
 - 🏛 Open-source public tools  
 - 🔐 Secure offline applications  
 - 📊 Decision dashboards  
-
----
-
-<details>
-  <summary><b>⚙️ Extra widgets (optional, keep it clean)</b></summary>
-
-  <br/>
-
-  <!-- If you write on Medium/Blog: -->
-  <!--
-  ### 📝 Latest posts
-  Use an RSS-to-README action to auto-inject content here.
-  -->
-
-  <!-- If you track coding time: -->
-  <!--
-  ### ⏱ WakaTime
-  Add WakaTime badge/widgets if you have an account.
-  -->
-
-</details>
 
 ---
 
