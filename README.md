@@ -20,7 +20,9 @@ My network
 
 </div>
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Clement-Plancon&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&cache_seconds=86400" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Plancon&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400" /> </p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b694a46a6260b9445c15af17a621a73e7ee978568cde3d1ebba7ece94b62518/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d436c656d656e742d506c616e636f6e267468656d653d6769746875622d636f6d7061637426686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/2b694a46a6260b9445c15af17a621a73e7ee978568cde3d1ebba7ece94b62518/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d436c656d656e742d506c616e636f6e267468656d653d6769746875622d636f6d7061637426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Clement-Plancon&amp;theme=github-compact&amp;hide_border=true" style="max-width: 100%;"></a>
+</p>
 
 <br />
 
