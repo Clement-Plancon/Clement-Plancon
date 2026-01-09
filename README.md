@@ -77,12 +77,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clement-Plancon&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clement-Plancon&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-Plancon&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clement-Plancon&theme=github_dark" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Clement-Plancon&theme=github_dark" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clement-Plancon&theme=github_dark" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Clement-Plancon&theme=github_dark&utcOffset=1" height="165"/>
+</p>
+
 
 ---
 
